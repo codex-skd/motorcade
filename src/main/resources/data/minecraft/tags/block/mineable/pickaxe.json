@@ -1,0 +1,13 @@
+﻿{
+  "replace": false,
+  "values": [
+    "motorcade:auto_mechanic_table",
+    "motorcade:automobile_assembler",
+    "motorcade:autopilot_sign",
+    "motorcade:dash_panel",
+    "motorcade:slope",
+    "motorcade:steep_slope",
+    "motorcade:slope_with_dash_panel",
+    "motorcade:steep_slope_with_dash_panel"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Attachments",
+  "icon": "motorcade:front_attachment",
+  "category": "motorcade:automobile_parts",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "Attachments are optional parts that add extra functionality to a finished automobile. Front attachments mount ahead of the driver; rear attachments mount behind."
+    },
+    {
+      "type": "vellumli:text",
+      "title": "Front Attachments",
+      "text": "Autopilot $(li1)drives the automobile automatically along Autopilot Signs\nMob Controller $(li1)steers toward or away from nearby mobs\nCrop Harvester $(li1)harvests crops as you drive over them\nGrass Cutter $(li1)clears grass and foliage in your path"
+    },
+    {
+      "type": "vellumli:text",
+      "title": "Rear Attachments",
+      "text": "Passenger Seat, Chest, Ender Chest and Saddled Barrel for storage and passengers$(br)Crafting Table, Smithing Table, Cartography Table, Loom, Grindstone and Stonecutter as mobile workstations$(br)Banner Post, Backhoe and Paver for utility and construction"
+    }
+  ]
+}

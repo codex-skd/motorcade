@@ -1,0 +1,16 @@
+{
+  "name": "Dash Panels",
+  "icon": "motorcade:dash_panel",
+  "category": "motorcade:roads_and_terrain",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "Dash Panels give a burst of speed to any automobile that drives over them. They can also be placed on top of Slopes and Steep Slopes to boost vehicles up or down a grade."
+    },
+    {
+      "type": "vellumli:crafting",
+      "recipe": "motorcade:dash_panel",
+      "title": "Dash Panel"
+    }
+  ]
+}

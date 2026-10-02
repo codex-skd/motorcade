@@ -1,0 +1,16 @@
+{
+  "name": "Autopilot Signs",
+  "icon": "motorcade:autopilot_sign",
+  "category": "motorcade:roads_and_terrain",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "Autopilot Signs guide any automobile fitted with an Autopilot attachment along a route automatically. Place them along the path you want the vehicle to follow."
+    },
+    {
+      "type": "vellumli:crafting",
+      "recipe": "motorcade:autopilot_sign",
+      "title": "Autopilot Sign"
+    }
+  ]
+}

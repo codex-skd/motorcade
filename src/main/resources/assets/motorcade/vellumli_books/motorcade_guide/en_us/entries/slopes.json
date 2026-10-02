@@ -1,0 +1,21 @@
+{
+  "name": "Slopes",
+  "icon": "motorcade:slope",
+  "category": "motorcade:roads_and_terrain",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "Slopes let automobiles drive smoothly up and down height changes instead of stopping at a ledge. Steep Slopes cover a full block of height in the same footprint as a regular slope."
+    },
+    {
+      "type": "vellumli:crafting",
+      "recipe": "motorcade:slope",
+      "title": "Slope"
+    },
+    {
+      "type": "vellumli:crafting",
+      "recipe": "motorcade:steep_slope",
+      "title": "Steep Slope"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "variants": {
+    "layers=3": {
+      "model": "motorcade:block/snow_off_road_2"
+    },
+    "layers=1": {
+      "model": "motorcade:block/snow_off_road_0"
+    },
+    "layers=2": {
+      "model": "motorcade:block/snow_off_road_1"
+    }
+  }
+}

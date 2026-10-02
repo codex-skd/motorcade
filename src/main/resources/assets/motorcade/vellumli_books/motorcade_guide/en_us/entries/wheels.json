@@ -1,0 +1,16 @@
+{
+  "name": "Wheels",
+  "icon": "motorcade:automobile_wheel",
+  "category": "motorcade:automobile_parts",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "Wheels set your automobile's $(bold)Size$() and $(bold)Grip$(). Bigger wheels clear rougher terrain; higher grip means better cornering and less sliding."
+    },
+    {
+      "type": "vellumli:text",
+      "title": "Wheel Types",
+      "text": "Crafted in the Auto Mechanic Table, under the Wheels category:$(br)Standard, Street and Carriage wheels for everyday driving$(br)Off-Road and Tractor wheels for rough terrain$(br)Plated, Steel, Gilded and Bejeweled wheels for extra grip$(br)Convertible wheels for a bit of everything"
+    }
+  ]
+}

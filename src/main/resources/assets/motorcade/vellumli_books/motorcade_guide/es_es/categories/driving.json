@@ -1,0 +1,5 @@
+{
+  "name": "Conducción",
+  "description": "Controles para acelerar, girar, derrapar y tocar el claxon por todo el mapa.",
+  "icon": "motorcade:automobile"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Automobile Assembler",
+  "icon": "motorcade:automobile_assembler",
+  "category": "motorcade:getting_started",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "Place parts made at the Auto Mechanic Table onto the Automobile Assembler: a frame, an engine, and wheels. An attachment is optional. Once the required parts are in place, the assembler builds a real, drivable automobile."
+    },
+    {
+      "type": "vellumli:crafting",
+      "recipe": "motorcade:automobile_assembler",
+      "title": "Automobile Assembler"
+    }
+  ]
+}

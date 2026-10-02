@@ -1,0 +1,16 @@
+{
+  "name": "Ruedas",
+  "icon": "motorcade:automobile_wheel",
+  "category": "motorcade:automobile_parts",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "Las ruedas determinan el $(bold)Tamaño$() y el $(bold)Agarre$() de tu automóvil. Las ruedas más grandes superan mejor el terreno irregular; más agarre significa mejores curvas y menos derrapes."
+    },
+    {
+      "type": "vellumli:text",
+      "title": "Tipos de Rueda",
+      "text": "Se fabrican en la Mesa de Mecánica, en la categoría Ruedas:$(br)Estándar, Callejera y de Carruaje para conducción normal$(br)Todoterreno y de Tractor para terreno difícil$(br)Blindada, de Acero, Dorada y Enjoyada para más agarre$(br)Convertible, un poco de todo"
+    }
+  ]
+}

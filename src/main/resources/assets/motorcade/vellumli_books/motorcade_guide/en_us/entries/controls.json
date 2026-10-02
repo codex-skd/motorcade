@@ -1,0 +1,21 @@
+{
+  "name": "Controls",
+  "icon": "motorcade:automobile",
+  "category": "motorcade:driving",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "Get in an automobile by right-clicking it, then use these controls to drive it."
+    },
+    {
+      "type": "vellumli:text",
+      "title": "Keyboard",
+      "text": "$(bold)W$() $(li1)Accelerate\n$(bold)S$() $(li1)Brake / Reverse / Burnout\n$(bold)A$() / $(bold)D$() $(li1)Steer left / right\n$(bold)Space$() $(li1)Drift / Deploy attachment"
+    },
+    {
+      "type": "vellumli:text",
+      "title": "Controller (Controlify)",
+      "text": "When using the Controlify mod, automobiles can also be driven with a controller:$(br)$(bold)A$() $(li1)Accelerate\n$(bold)B$() $(li1)Brake / Reverse\n$(bold)Left Stick$() $(li1)Steer left / right\n$(bold)Right Trigger$() $(li1)Drift / Deploy attachment"
+    }
+  ]
+}

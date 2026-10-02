@@ -1,0 +1,16 @@
+{
+  "name": "Palanca",
+  "icon": "motorcade:crowbar",
+  "category": "motorcade:getting_started",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "Usa la Palanca sobre un automóvil terminado para desmontarlo, recuperando sus piezas para poder reconstruirlo con una combinación distinta."
+    },
+    {
+      "type": "vellumli:crafting",
+      "recipe": "motorcade:crowbar",
+      "title": "Palanca"
+    }
+  ]
+}

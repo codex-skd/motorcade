@@ -1,0 +1,36 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.skd.motorcade.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "motorcade-refmap.json",
+  "mixins": [
+    "AABBMixin",
+    "AbstractContainerMenuMixin",
+    "EntityMixin",
+    "ItemCombinerMenuMixin",
+    "PlayerEnderChestContainerMixin",
+    "ServerGamePacketListenerImplMixin",
+    "ShovelItemAccess"
+  ],
+  "client": [
+    "BlockColorsAccess",
+    "BlockEntityWithoutLevelRendererMixin",
+    "EntityRenderDispatcherMixin",
+    "EntityRenderersMixin",
+    "KeyMappingAccess",
+    "LocalPlayerMixin",
+    "MultiPlayerGameModeMixin",
+    "SoundChannelAccess",
+    "SoundEngineMixin",
+    "jsonem.CubeDefinitionAccess",
+    "jsonem.CubeDeformationAccess",
+    "jsonem.EntityModelSetMixin",
+    "jsonem.LayerDefinitionAccess",
+    "jsonem.MaterialDefinitionAccess",
+    "jsonem.PartDefinitionAccess"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

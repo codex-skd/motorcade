@@ -1,0 +1,7 @@
+﻿{
+  "parent": "motorcade:block/template_off_road_0",
+  "textures": {
+    "off_road": "motorcade:block/snow_off_road"
+  },
+  "elements": []
+}

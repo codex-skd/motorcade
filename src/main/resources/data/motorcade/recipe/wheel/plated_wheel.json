@@ -1,0 +1,14 @@
+﻿{
+    "type": "motorcade:auto_mechanic_table",
+    "category": "motorcade:wheels",
+    "sortnum": 1,
+    "ingredients": [
+        {"tag": "minecraft:logs"},
+        {"item": "minecraft:copper_ingot"},
+        {"tag": "minecraft:logs"}
+    ],
+    "result": {
+        "item": "motorcade:automobile_wheel",
+        "component": "motorcade:plated"
+    }
+}
