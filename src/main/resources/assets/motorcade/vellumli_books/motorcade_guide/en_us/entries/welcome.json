@@ -1,0 +1,16 @@
+{
+  "name": "Welcome to Motorcade",
+  "icon": "motorcade:automobile",
+  "category": "motorcade:getting_started",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "Motorcade adds fully customizable, buildable vehicles. You don't craft a finished car in one recipe: you craft its individual parts, then assemble them into a working automobile."
+    },
+    {
+      "type": "vellumli:text",
+      "title": "The Build Loop",
+      "text": "$(li)Craft a $(l:getting_started/auto_mechanic_table)Auto Mechanic Table$()\n$(li)Use it to craft a frame, engine and wheels (and optionally an attachment)\n$(li)Place a $(l:getting_started/automobile_assembler)Automobile Assembler$()\n$(li)Put your parts on it to build the automobile\n$(li)Use a $(l:getting_started/crowbar)Crowbar$() any time you want to take it apart and rebuild it differently"
+    }
+  ]
+}

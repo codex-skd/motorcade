@@ -1,0 +1,21 @@
+{
+  "name": "Rampas",
+  "icon": "motorcade:slope",
+  "category": "motorcade:roads_and_terrain",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "Las rampas permiten a los automóviles subir y bajar desniveles con suavidad en vez de detenerse en un escalón. Las Rampas Pronunciadas cubren un bloque entero de altura en el mismo espacio que una rampa normal."
+    },
+    {
+      "type": "vellumli:crafting",
+      "recipe": "motorcade:slope",
+      "title": "Rampa"
+    },
+    {
+      "type": "vellumli:crafting",
+      "recipe": "motorcade:steep_slope",
+      "title": "Rampa Pronunciada"
+    }
+  ]
+}

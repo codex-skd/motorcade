@@ -1,0 +1,11 @@
+﻿{
+    "parent": "motorcade:block/autopilot_sign_right",
+    "overrides": [
+        {
+            "predicate": {
+                "motorcade:stop": 1
+            },
+            "model": "motorcade:block/autopilot_sign_stop"
+        }
+    ]
+}

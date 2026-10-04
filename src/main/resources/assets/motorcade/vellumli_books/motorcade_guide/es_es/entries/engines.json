@@ -1,0 +1,16 @@
+{
+  "name": "Motores",
+  "icon": "motorcade:automobile_engine",
+  "category": "motorcade:automobile_parts",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "El motor determina el $(bold)Par Motor$() y la $(bold)Velocidad$() de tu automóvil. Los niveles más altos aceleran con más fuerza y alcanzan una velocidad máxima mayor."
+    },
+    {
+      "type": "vellumli:text",
+      "title": "Niveles de Motor",
+      "text": "Se fabrican en la Mesa de Mecánica, en la categoría Motores, con materiales progresivamente mejores:$(br)Piedra → Cobre → Hierro → Oro → Diamante$(br)También hay un motor Creativo disponible para probar construcciones."
+    }
+  ]
+}

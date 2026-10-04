@@ -1,0 +1,16 @@
+{
+  "name": "Carteles de Piloto Automático",
+  "icon": "motorcade:autopilot_sign",
+  "category": "motorcade:roads_and_terrain",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "Los Carteles de Piloto Automático guían automáticamente a cualquier automóvil equipado con el accesorio Piloto Automático a lo largo de una ruta. Colócalos siguiendo el camino que quieras que siga el vehículo."
+    },
+    {
+      "type": "vellumli:crafting",
+      "recipe": "motorcade:autopilot_sign",
+      "title": "Cartel de Piloto Automático"
+    }
+  ]
+}

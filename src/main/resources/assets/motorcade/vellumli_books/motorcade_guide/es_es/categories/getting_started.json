@@ -1,0 +1,5 @@
+{
+  "name": "Primeros Pasos",
+  "description": "El ciclo básico de Motorcade: fabrica piezas, construye un vehículo y desmóntalo cuando quieras rediseñarlo.",
+  "icon": "motorcade:auto_mechanic_table"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Controles",
+  "icon": "motorcade:automobile",
+  "category": "motorcade:driving",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "Sube a un automóvil haciendo clic derecho sobre él, y usa estos controles para conducirlo."
+    },
+    {
+      "type": "vellumli:text",
+      "title": "Teclado",
+      "text": "$(bold)W$() $(li1)Acelerar\n$(bold)S$() $(li1)Frenar / Retroceder / Burnout\n$(bold)A$() / $(bold)D$() $(li1)Girar a la izquierda / derecha\n$(bold)Espacio$() $(li1)Derrapar / Activar accesorio"
+    },
+    {
+      "type": "vellumli:text",
+      "title": "Mando (Controlify)",
+      "text": "Con el mod Controlify, los automóviles también se pueden conducir con mando:$(br)$(bold)A$() $(li1)Acelerar\n$(bold)B$() $(li1)Frenar / Retroceder\n$(bold)Stick Izquierdo$() $(li1)Girar a la izquierda / derecha\n$(bold)Gatillo Derecho$() $(li1)Derrapar / Activar accesorio"
+    }
+  ]
+}

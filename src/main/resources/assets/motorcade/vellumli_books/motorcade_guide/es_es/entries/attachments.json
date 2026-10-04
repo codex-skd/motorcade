@@ -1,0 +1,21 @@
+{
+  "name": "Accesorios",
+  "icon": "motorcade:front_attachment",
+  "category": "motorcade:automobile_parts",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "Los accesorios son piezas opcionales que añaden funcionalidad extra a un automóvil terminado. Los delanteros se montan por delante del conductor; los traseros, por detrás."
+    },
+    {
+      "type": "vellumli:text",
+      "title": "Accesorios Delanteros",
+      "text": "Piloto Automático $(li1)conduce el automóvil solo siguiendo Carteles de Piloto Automático\nControlador de Criaturas $(li1)gira hacia o se aleja de criaturas cercanas\nCosechadora $(li1)cosecha cultivos al pasar por encima\nCortacésped $(li1)limpia hierba y follaje a su paso"
+    },
+    {
+      "type": "vellumli:text",
+      "title": "Accesorios Traseros",
+      "text": "Asiento de Pasajero, Cofre, Cofre del Ender y Barril Ensillado para almacenaje y pasajeros$(br)Mesa de Crafteo, Mesa de Herrería, Mesa de Cartografía, Telar, Piedra de Afilar y Cortadora de Piedra como estaciones de trabajo móviles$(br)Poste de Estandarte, Retroexcavadora y Pavimentadora para utilidad y construcción"
+    }
+  ]
+}

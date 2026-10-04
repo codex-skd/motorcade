@@ -1,0 +1,16 @@
+{
+  "name": "Crowbar",
+  "icon": "motorcade:crowbar",
+  "category": "motorcade:getting_started",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "Use the Crowbar on a finished automobile to take it apart again, giving you back its parts so you can rebuild it with a different combination."
+    },
+    {
+      "type": "vellumli:crafting",
+      "recipe": "motorcade:crowbar",
+      "title": "Crowbar"
+    }
+  ]
+}

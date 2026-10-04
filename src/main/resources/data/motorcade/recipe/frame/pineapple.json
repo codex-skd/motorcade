@@ -1,0 +1,14 @@
+﻿{
+    "type": "motorcade:auto_mechanic_table",
+    "category": "motorcade:frames",
+    "sortnum": 99900,
+    "ingredients": [
+        {"item": "minecraft:blaze_powder"},
+        {"item": "minecraft:carved_pumpkin"},
+        {"tag": "minecraft:flowers"}
+    ],
+    "result": {
+        "item": "motorcade:automobile_frame",
+        "component": "motorcade:pineapple"
+    }
+}

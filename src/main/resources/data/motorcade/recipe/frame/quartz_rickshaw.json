@@ -1,0 +1,18 @@
+﻿{
+    "type": "motorcade:auto_mechanic_table",
+    "category": "motorcade:frames",
+    "sortnum": 401,
+    "ingredients": [
+        {"item": "minecraft:redstone"},
+        {"item": "minecraft:nether_bricks"},
+        {"item": "minecraft:gold_ingot"},
+        {"item": "minecraft:quartz_block"},
+        {"item": "minecraft:leather"},
+        {"item": "minecraft:iron_ingot"},
+        {"item": "minecraft:quartz"}
+    ],
+    "result": {
+        "item": "motorcade:automobile_frame",
+        "component": "motorcade:quartz_rickshaw"
+    }
+}

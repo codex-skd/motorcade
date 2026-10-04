@@ -1,0 +1,14 @@
+﻿{
+    "type": "motorcade:auto_mechanic_table",
+    "category": "motorcade:wheels",
+    "sortnum": 0,
+    "ingredients": [
+        {"tag": "minecraft:planks"},
+        {"item": "minecraft:stick"},
+        {"tag": "minecraft:planks"}
+    ],
+    "result": {
+        "item": "motorcade:automobile_wheel",
+        "component": "motorcade:carriage"
+    }
+}

@@ -1,0 +1,13 @@
+﻿{
+    "type": "motorcade:auto_mechanic_table",
+    "category": "motorcade:wheels",
+    "sortnum": 101,
+    "ingredients": [
+        {"item": "minecraft:black_wool"},
+        {"item": "minecraft:gold_nugget"}
+    ],
+    "result": {
+        "item": "motorcade:automobile_wheel",
+        "component": "motorcade:tractor"
+    }
+}

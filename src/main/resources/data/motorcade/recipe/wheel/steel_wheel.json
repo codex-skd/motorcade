@@ -1,0 +1,14 @@
+﻿{
+    "type": "motorcade:auto_mechanic_table",
+    "category": "motorcade:wheels",
+    "sortnum": 102,
+    "ingredients": [
+        {"item": "minecraft:gray_wool"},
+        {"item": "minecraft:iron_ingot"}
+    ],
+    "result": {
+        "item": "motorcade:automobile_wheel",
+        "count": 2,
+        "component": "motorcade:steel"
+    }
+}

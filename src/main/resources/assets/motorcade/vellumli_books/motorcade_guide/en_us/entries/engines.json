@@ -1,0 +1,16 @@
+{
+  "name": "Engines",
+  "icon": "motorcade:automobile_engine",
+  "category": "motorcade:automobile_parts",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "An engine sets your automobile's $(bold)Torque$() and $(bold)Speed$(). Higher tiers accelerate harder and reach a higher top speed."
+    },
+    {
+      "type": "vellumli:text",
+      "title": "Engine Tiers",
+      "text": "Crafted in the Auto Mechanic Table, under the Engines category, from progressively better materials:$(br)Stone → Copper → Iron → Gold → Diamond$(br)A Creative engine is also available for testing builds."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Bloques Todoterreno",
+  "icon": "motorcade:grass_off_road",
+  "category": "motorcade:roads_and_terrain",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "Los bloques Todoterreno son variantes más rugosas de bloques de suelo comunes, pensados para construir pistas de tierra de aspecto natural y circuitos de rally en vez de carreteras asfaltadas."
+    },
+    {
+      "type": "vellumli:crafting",
+      "recipe": "motorcade:grass_off_road",
+      "title": "Hierba Todoterreno"
+    },
+    {
+      "type": "vellumli:crafting",
+      "recipe": "motorcade:dirt_off_road",
+      "title": "Tierra Todoterreno"
+    },
+    {
+      "type": "vellumli:crafting",
+      "recipe": "motorcade:sand_off_road",
+      "title": "Arena Todoterreno"
+    },
+    {
+      "type": "vellumli:crafting",
+      "recipe": "motorcade:snow_off_road",
+      "title": "Nieve Todoterreno"
+    }
+  ]
+}

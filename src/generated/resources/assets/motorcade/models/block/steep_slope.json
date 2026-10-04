@@ -1,0 +1,4 @@
+{
+  "loader": "motorcade:slope",
+  "represents": "motorcade:block/steep_slope"
+}
