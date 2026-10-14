@@ -1,0 +1,10 @@
+{
+  "display": {
+    "model": "motorcade:wheel/carriage",
+    "radius": 5.0,
+    "texture": "motorcade:textures/entity/automobile/wheel/street.png",
+    "width": 2.0
+  },
+  "grip": 0.5,
+  "size": 1.05
+}

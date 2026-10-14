@@ -1,0 +1,16 @@
+{
+  "name": "Mesa de Mecánica",
+  "icon": "motorcade:auto_mechanic_table",
+  "category": "motorcade:getting_started",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "La Mesa de Mecánica es donde diseñas las piezas del automóvil: chasis, motores, ruedas y accesorios. Haz clic derecho para abrir su interfaz, elige una categoría de pieza y fabrica la que quieras. Consulta $(l:automobile_parts/frames)Piezas de Automóvil$() para saber qué hace cada pieza."
+    },
+    {
+      "type": "vellumli:crafting",
+      "recipe": "motorcade:auto_mechanic_table",
+      "title": "Mesa de Mecánica"
+    }
+  ]
+}

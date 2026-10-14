@@ -1,0 +1,18 @@
+﻿{
+    "type": "motorcade:auto_mechanic_table",
+    "category": "motorcade:frames",
+    "sortnum": 200,
+    "ingredients": [
+        {"item": "minecraft:iron_ingot"},
+        {"item": "minecraft:iron_bars"},
+        {"item": "minecraft:iron_bars"},
+        {"item": "minecraft:iron_bars"},
+        {"item": "minecraft:iron_ingot"},
+        {"item": "minecraft:copper_ingot"},
+        {"item": "minecraft:iron_ingot"}
+    ],
+    "result": {
+        "item": "motorcade:automobile_frame",
+        "component": "motorcade:shopping_cart"
+    }
+}

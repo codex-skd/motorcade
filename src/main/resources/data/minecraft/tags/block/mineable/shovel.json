@@ -1,0 +1,9 @@
+﻿{
+  "replace": false,
+  "values": [
+    "motorcade:grass_off_road",
+    "motorcade:dirt_off_road",
+    "motorcade:sand_off_road",
+    "motorcade:snow_off_road"
+  ]
+}

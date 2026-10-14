@@ -1,0 +1,15 @@
+﻿{
+    "type": "motorcade:auto_mechanic_table",
+    "category": "motorcade:attachments",
+    "sortnum": 207,
+    "ingredients": [
+        {"item": "motorcade:auto_mechanic_table"},
+        {"tag": "minecraft:stone_crafting_materials"},
+        {"item": "minecraft:stick"},
+        {"tag": "minecraft:planks"}
+    ],
+    "result": {
+        "item": "motorcade:rear_attachment",
+        "component": "motorcade:auto_mechanic_table"
+    }
+}

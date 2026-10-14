@@ -1,0 +1,21 @@
+{
+  "name": "Chasis",
+  "icon": "motorcade:automobile_frame",
+  "category": "motorcade:automobile_parts",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "El chasis es la base de tu automóvil: su forma y su $(bold)Peso$(). Los chasis ligeros aceleran más rápido pero manejan peor con carga; los pesados son más estables pero más lentos de salida."
+    },
+    {
+      "type": "vellumli:text",
+      "title": "Dónde Fabricarlos",
+      "text": "Todos los chasis se fabrican en la $(l:getting_started/auto_mechanic_table)Mesa de Mecánica$(), en la categoría Chasis. Las recetas van desde un sencillo Auto de Madera hasta tractores, rickshaws y formas curiosas como el Carrito de la Compra y la Piña."
+    },
+    {
+      "type": "vellumli:text",
+      "title": "Chasis Disponibles",
+      "text": "Autos de Madera, Cobre, Acero, Dorado y Enjoyado$(br)Chasis estándar en todos los colores de tinte$(br)Rickshaws de Amatista, Cuarzo, Prismarina y Eco$(br)Tractores Rojo, Amarillo, Verde y Azul$(br)Carrito de la Compra y Piña"
+    }
+  ]
+}

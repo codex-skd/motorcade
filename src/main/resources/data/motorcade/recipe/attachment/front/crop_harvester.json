@@ -1,0 +1,18 @@
+﻿{
+    "type": "motorcade:auto_mechanic_table",
+    "category": "motorcade:attachments",
+    "sortnum": 1,
+    "ingredients": [
+        {"item": "minecraft:stick"},
+        {"tag": "minecraft:stone_crafting_materials"},
+        {"item": "minecraft:gold_ingot"},
+        {"item": "minecraft:copper_ingot"},
+        {"item": "minecraft:gold_ingot"},
+        {"tag": "minecraft:stone_crafting_materials"},
+        {"item": "minecraft:stick"}
+    ],
+    "result": {
+        "item": "motorcade:front_attachment",
+        "component": "motorcade:crop_harvester"
+    }
+}

@@ -1,0 +1,6 @@
+﻿{
+  "parent": "motorcade:block/template_autopilot_sign_floor",
+  "textures": {
+    "sign": "motorcade:block/autopilot_sign_arrow"
+  }
+}

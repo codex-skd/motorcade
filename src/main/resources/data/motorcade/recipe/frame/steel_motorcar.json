@@ -1,0 +1,18 @@
+﻿{
+    "type": "motorcade:auto_mechanic_table",
+    "category": "motorcade:frames",
+    "sortnum": 2,
+    "ingredients": [
+        {"item": "minecraft:redstone"},
+        {"item": "minecraft:smooth_stone"},
+        {"item": "minecraft:leather"},
+        {"item": "minecraft:iron_block"},
+        {"tag": "minecraft:stone_crafting_materials"},
+        {"item": "minecraft:iron_block"},
+        {"item": "minecraft:iron_ingot"}
+    ],
+    "result": {
+        "item": "motorcade:automobile_frame",
+        "component": "motorcade:steel_motorcar"
+    }
+}

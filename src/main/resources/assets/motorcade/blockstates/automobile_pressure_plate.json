@@ -1,0 +1,10 @@
+﻿{
+  "variants": {
+    "powered=false": {
+      "model": "motorcade:block/automobile_pressure_plate"
+    },
+    "powered=true": {
+      "model": "motorcade:block/automobile_pressure_plate_down"
+    }
+  }
+}

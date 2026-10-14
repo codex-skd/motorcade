@@ -1,0 +1,17 @@
+﻿{
+    "type": "motorcade:auto_mechanic_table",
+    "category": "motorcade:frames",
+    "sortnum": 4,
+    "ingredients": [
+        {"item": "minecraft:redstone"},
+        {"tag": "minecraft:stone_crafting_materials"},
+        {"item": "minecraft:leather"},
+        {"item": "minecraft:diamond_block"},
+        {"item": "minecraft:obsidian"},
+        {"item": "minecraft:iron_ingot"}
+    ],
+    "result": {
+        "item": "motorcade:automobile_frame",
+        "component": "motorcade:bejeweled_motorcar"
+    }
+}

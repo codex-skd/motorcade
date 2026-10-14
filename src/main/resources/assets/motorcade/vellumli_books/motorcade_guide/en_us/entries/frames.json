@@ -1,0 +1,21 @@
+{
+  "name": "Frames",
+  "icon": "motorcade:automobile_frame",
+  "category": "motorcade:automobile_parts",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "A frame is the base of your automobile: its shape and its $(bold)Weight$(). Lighter frames accelerate faster but handle worse under load; heavier frames are steadier but slower off the line."
+    },
+    {
+      "type": "vellumli:text",
+      "title": "Where to Craft",
+      "text": "All frames are crafted in the $(l:getting_started/auto_mechanic_table)Auto Mechanic Table$(), under the Frames category. Recipes range from a simple Wooden Motorcar to tractors, rickshaws and novelty shapes like the Shopping Cart and Pineapple."
+    },
+    {
+      "type": "vellumli:text",
+      "title": "Available Frames",
+      "text": "Wooden, Copper, Steel, Golden and Bejeweled Motorcars$(br)Standard frames in every dye color$(br)Amethyst, Quartz, Prismarine and Echo Rickshaws$(br)Red, Yellow, Green and Blue Tractors$(br)Shopping Cart and Pineapple"
+    }
+  ]
+}

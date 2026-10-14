@@ -1,0 +1,16 @@
+{
+  "name": "Paneles Aceleradores",
+  "icon": "motorcade:dash_panel",
+  "category": "motorcade:roads_and_terrain",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "Los Paneles Aceleradores dan un impulso de velocidad a cualquier automóvil que pase por encima. También se pueden colocar sobre Rampas y Rampas Pronunciadas para impulsar a los vehículos cuesta arriba o abajo."
+    },
+    {
+      "type": "vellumli:crafting",
+      "recipe": "motorcade:dash_panel",
+      "title": "Panel Acelerador"
+    }
+  ]
+}

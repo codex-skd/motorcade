@@ -1,0 +1,5 @@
+{
+  "name": "Getting Started",
+  "description": "The core loop of Motorcade: craft parts, build a vehicle, and take it apart again when you want to redesign it.",
+  "icon": "motorcade:auto_mechanic_table"
+}

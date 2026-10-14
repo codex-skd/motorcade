@@ -1,0 +1,14 @@
+﻿{
+    "type": "motorcade:auto_mechanic_table",
+    "category": "motorcade:wheels",
+    "sortnum": 4,
+    "ingredients": [
+        {"item": "minecraft:obsidian"},
+        {"item": "minecraft:diamond"},
+        {"item": "minecraft:obsidian"}
+    ],
+    "result": {
+        "item": "motorcade:automobile_wheel",
+        "component": "motorcade:bejeweled"
+    }
+}

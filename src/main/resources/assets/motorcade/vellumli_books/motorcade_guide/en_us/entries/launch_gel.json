@@ -1,0 +1,16 @@
+{
+  "name": "Launch Gel",
+  "icon": "motorcade:launch_gel",
+  "category": "motorcade:roads_and_terrain",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "Launch Gel flings any automobile that drives over it into the air, launching it off ramps and jumps. Great for stunt tracks and shortcuts over gaps."
+    },
+    {
+      "type": "vellumli:crafting",
+      "recipe": "motorcade:launch_gel",
+      "title": "Launch Gel"
+    }
+  ]
+}

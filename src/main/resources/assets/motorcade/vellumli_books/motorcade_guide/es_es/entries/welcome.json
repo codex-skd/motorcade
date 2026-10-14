@@ -1,0 +1,16 @@
+{
+  "name": "Bienvenido a Motorcade",
+  "icon": "motorcade:automobile",
+  "category": "motorcade:getting_started",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "Motorcade añade vehículos totalmente personalizables. No fabricas un coche terminado con una sola receta: fabricas sus piezas por separado y luego las ensamblas en un automóvil funcional."
+    },
+    {
+      "type": "vellumli:text",
+      "title": "El Ciclo de Construcción",
+      "text": "$(li)Fabrica una $(l:getting_started/auto_mechanic_table)Mesa de Mecánica$()\n$(li)Úsala para fabricar un chasis, un motor y ruedas (y opcionalmente un accesorio)\n$(li)Coloca un $(l:getting_started/automobile_assembler)Ensamblador de Automóviles$()\n$(li)Pon tus piezas sobre él para construir el automóvil\n$(li)Usa una $(l:getting_started/crowbar)Palanca$() cuando quieras desmontarlo y reconstruirlo de otra forma"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Gel de Lanzamiento",
+  "icon": "motorcade:launch_gel",
+  "category": "motorcade:roads_and_terrain",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "El Gel de Lanzamiento lanza por los aires a cualquier automóvil que pase por encima, impulsándolo desde rampas y saltos. Ideal para pistas acrobáticas y atajos sobre huecos."
+    },
+    {
+      "type": "vellumli:crafting",
+      "recipe": "motorcade:launch_gel",
+      "title": "Gel de Lanzamiento"
+    }
+  ]
+}

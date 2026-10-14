@@ -1,0 +1,16 @@
+{
+  "name": "Ensamblador de Automóviles",
+  "icon": "motorcade:automobile_assembler",
+  "category": "motorcade:getting_started",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "Coloca sobre el Ensamblador de Automóviles las piezas fabricadas en la Mesa de Mecánica: un chasis, un motor y ruedas. El accesorio es opcional. Cuando las piezas necesarias estén colocadas, el ensamblador construye un automóvil real y conducible."
+    },
+    {
+      "type": "vellumli:crafting",
+      "recipe": "motorcade:automobile_assembler",
+      "title": "Ensamblador de Automóviles"
+    }
+  ]
+}

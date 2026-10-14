@@ -1,0 +1,16 @@
+﻿{
+    "type": "motorcade:auto_mechanic_table",
+    "category": "motorcade:frames",
+    "sortnum": 101,
+    "ingredients": [
+        {"item": "minecraft:iron_ingot"},
+        {"item": "minecraft:copper_block"},
+        {"tag": "minecraft:stone_crafting_materials"},
+        {"item": "minecraft:yellow_dye"},
+        {"item": "minecraft:iron_bars"}
+    ],
+    "result": {
+        "item": "motorcade:automobile_frame",
+        "component": "motorcade:yellow_tractor"
+    }
+}

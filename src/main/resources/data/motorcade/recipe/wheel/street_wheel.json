@@ -1,0 +1,14 @@
+﻿{
+    "type": "motorcade:auto_mechanic_table",
+    "category": "motorcade:wheels",
+    "sortnum": 2,
+    "ingredients": [
+        {"item": "minecraft:cobbled_deepslate"},
+        {"item": "minecraft:iron_ingot"},
+        {"item": "minecraft:cobbled_deepslate"}
+    ],
+    "result": {
+        "item": "motorcade:automobile_wheel",
+        "component": "motorcade:street"
+    }
+}

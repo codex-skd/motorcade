@@ -1,0 +1,16 @@
+{
+  "name": "Auto Mechanic Table",
+  "icon": "motorcade:auto_mechanic_table",
+  "category": "motorcade:getting_started",
+  "pages": [
+    {
+      "type": "vellumli:text",
+      "text": "The Auto Mechanic Table is where you design automobile parts: frames, engines, wheels and attachments. Right-click it to open its interface, choose a part category, and craft the part you want. See $(l:automobile_parts/frames)Automobile Parts$() for what each part does."
+    },
+    {
+      "type": "vellumli:crafting",
+      "recipe": "motorcade:auto_mechanic_table",
+      "title": "Auto Mechanic Table"
+    }
+  ]
+}

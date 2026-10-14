@@ -1,0 +1,17 @@
+﻿{
+    "type": "motorcade:auto_mechanic_table",
+    "category": "motorcade:attachments",
+    "sortnum": 100,
+    "ingredients": [
+        {"tag": "minecraft:wool"},
+        {"tag": "minecraft:wool"},
+        {"tag": "minecraft:planks"},
+        {"item": "minecraft:iron_ingot"},
+        {"item": "minecraft:stick"},
+        {"tag": "minecraft:logs"}
+    ],
+    "result": {
+        "item": "motorcade:rear_attachment",
+        "component": "motorcade:passenger_seat"
+    }
+}

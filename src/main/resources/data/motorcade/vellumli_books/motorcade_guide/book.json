@@ -1,0 +1,10 @@
+{
+  "name": "book.motorcade.name",
+  "landing_text": "book.motorcade.landing",
+  "subtitle": "book.motorcade.subtitle",
+  "show_progress": false,
+  "creative_tab": "motorcade:motorcade",
+  "use_blocky_font": true,
+  "use_resource_pack": true,
+  "macros": { }
+}
